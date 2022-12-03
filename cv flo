@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html long="en">
+<head>  
+    <meta charsel="UTF-8">
+    <meta http-equiv="X-UA-compatible" content="IE-edge">
+    <meta name="vieport" content="width=device-with, initial-scale=1.0">
+    <title>CV Florin</title>
+</head>
+<body>
+    <%# Main section %>
+
+    <div>
+     <!-- Abaut me section -->
+        <div>
+            <h2>Front-End Developer</h2>
+
+             <h1>Pandele Florin Ionut</h1>
+    
+            <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. 
+             </p>
+        </div>
+        <%# project section %>
+         <div>
+          <h2>Project</h2>
+          <ol>
+             <li>
+                <a href="https://barbershop.goit.global/"> 
+                 https://barbershop.goit.global/</a>
+                 <span>.-.-.-.-.-.-</span>
+                 <span>[ HTML5, CSS3 ]</span>   
+              </li>
+              <li>
+                <a href="https://cryptohub.goit.global/"> 
+                https://cryptohub.goit.global/</a>
+                 <span>.-.-.-.-.-.-</span>[ JavaScript ]
+                 <span>[ JavaScript ]</span>
+              </li>
+              <li>
+                <a href="https://kidslike.goit.global/"> 
+                https://kidslike.goit.global/</a>
+                 <span>.-.-.-.-.-.-</span>
+                 <span>[ React.js, Node.js ]</span>
+              </li>
+          </ol>
+         </div>
+        <div>
+        <!-- work experient section -->
+        <h2>Worc Experience</h2>
+        <!--company nr.3-->
+            <div>
+                <h3>Front end developer freelance </h3>
+                <p> September 2019 - up to now </p>
+                <ul>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                     </li>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</li>
+                    <li>Risus commodo viverra maecenas.</li>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                </ul>
+            
+            </div>
+        </div>
+        <!--company nr 2-->
+        <div>
+             <h3>Manager Glory new</h3>
+            <p>March 2015 - Octomber 2018 </p>
+              <ul>
+ 
+              <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore et dolore magna aliqua. </li>
+              <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore et dolore magna aliqua. </li>
+              <li>Quis ipsum suspendisse ultrices gravida.</li>
+              <li>Risus commodo viverra maecenas.</li>
+
+             </ul>
+        </div>
+        <!--company nr 1-->
+        <div>
+             <h3>Manager Glory LLC </h3>
+             <p>June 2014 - February 2015   |   Country</p>
+               <ul> 
+                  <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                 <li>Quis ipsum suspendisse ultrices gravida.</li>
+                 <li>Risus commodo viverra maecenas.</li>
+              </ul>
+        </div>
+        <!-- Educatie section -->
+        <div>
+            <h2>Education</h2>
+            <h2>National University</h2>
+            <h3>Management</h3>
+            <p>September 2009 - June 2014   |   Country</p>
+        </div>
+    </div >  
+    <aside>
+        <img src="./img/IMG_3017.jpeg" alt="my photo">
+    </aside>
+</body>
+</html>
